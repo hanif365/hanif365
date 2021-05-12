@@ -19,9 +19,11 @@
 <p align="left">
 <!-- <a href="https://linkedin.com/in/programmerhanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="programmerhanif" height="30" width="40" /></a> -->
   
-<a href="https://linkedin.com/in/programmerhanif" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" alt="programmerhanif" height="30" width="40" /></a>
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/programmerhanif/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/M.A.HanifKhaan/) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@abuhanif-cse3) 
 
-<a href="https://medium.com/@abuhanif-cse3" target="blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb.jpg" alt="@abuhanif-cse3" height="30" width="40" /></a>
+<br />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
