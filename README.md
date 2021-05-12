@@ -16,7 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1io8ws0ZomXGJxek6iahKaWb79jBsw78s/view?usp=sharing](https://drive.google.com/file/d/1io8ws0ZomXGJxek6iahKaWb79jBsw78s/view?usp=sharing)
 
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +25,6 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/M.A.HanifKhaan/) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@abuhanif-cse3) 
 
-<br />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
