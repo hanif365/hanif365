@@ -5,7 +5,7 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
-<h1 align="center">Hi 👋, I'm ```<span style="color:blue;"><b>Abu Hanif</b></span>```</h1>
+<h1 align="center">Hi 👋, I'm ```diff + <span><b>Abu Hanif</b></span>```</h1>
 <h3 align="center">A creative and enthusiastic web developer dedicated to developing and optimizing interactive, user-friendly, and feature-rich websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanif365&label=Profile%20views&color=0e75b6&style=flat" alt="hanif365" /> </p>
