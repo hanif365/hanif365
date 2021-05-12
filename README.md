@@ -19,7 +19,7 @@
 <p align="left">
 <!-- <a href="https://linkedin.com/in/programmerhanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="programmerhanif" height="30" width="40" /></a> -->
   
-<a href="https://linkedin.com/in/programmerhanif" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="programmerhanif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/programmerhanif" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" alt="programmerhanif" height="30" width="40" /></a>
 
 <a href="https://medium.com/@abuhanif-cse3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@abuhanif-cse3" height="30" width="40" /></a>
 </p>
