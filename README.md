@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://abuhanif-cse3.medium.com/](https://abuhanif-cse3.medium.com/)
 
-- 📫 How to reach me **abuhanifcse3@gmail.com**
+- 📫 How to reach me **abuhanif.cse3@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1io8ws0ZomXGJxek6iahKaWb79jBsw78s/view?usp=sharing](https://drive.google.com/file/d/1io8ws0ZomXGJxek6iahKaWb79jBsw78s/view?usp=sharing)
 
