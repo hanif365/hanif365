@@ -6,7 +6,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanif365" alt="hanif365" /></a> </p> -->
 
-- 🌱 I’m currently learning **React Native, Redux**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://hanif.netlify.app/](https://hanif.netlify.app/)
 
