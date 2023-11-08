@@ -13,8 +13,8 @@
 - 📝 I regularly write articles on [https://abuhanif-cse3.medium.com/](https://abuhanif-cse3.medium.com/)
 
 - 📫 How to reach me **abuhanif.cse3@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LtzJ6TsQTh7RiSsKgLIP0DSyhABsi8Od/view?usp=sharing)
+  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XAurxE1bRvs4nstJlWMvi2P6KEAQrt0k/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
