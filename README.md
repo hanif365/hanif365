@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **abuhanif.cse3@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XAurxE1bRvs4nstJlWMvi2P6KEAQrt0k/view?usp=sharing)
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xEqCJwCMh1X4AXI3Uh8XQAd7AIxI_jaY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
