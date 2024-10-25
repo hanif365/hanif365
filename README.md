@@ -1,4 +1,5 @@
-![Think fast](https://github.com/hanif365/hanif365/assets/55603798/f60b773c-b9b8-40b5-84ea-97850faa527e)
+<!-- ![Think fast](https://github.com/hanif365/hanif365/assets/55603798/f60b773c-b9b8-40b5-84ea-97850faa527e) -->
+![LinkedIn Banner](https://github.com/user-attachments/assets/c22d196a-3f8b-436a-a99b-84d3373d2827)
 
 <h1 align="center">Hi 👋, I'm Abu Hanif</h1>
 
