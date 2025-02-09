@@ -9,15 +9,16 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanif365" alt="hanif365" /></a> </p> -->
 
-- 🌱 I’m currently exploring **Next.js**
+- 🌱 I’m currently exploring **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://hanif.netlify.app/](https://hanif.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hanif.netlify.app](https://hanif.netlify.app)
 
-- 📝 I regularly write articles on [https://abuhanif-cse3.medium.com/](https://abuhanif-cse3.medium.com/)
+- 📝 I regularly write articles on [https://abuhanif-cse3.medium.com](https://abuhanif-cse3.medium.com)
 
 - 📫 How to reach me **abuhanif.cse3@gmail.com**
-  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xEqCJwCMh1X4AXI3Uh8XQAd7AIxI_jaY/view?usp=sharing)
+
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sznbY-55TzLxcOVkaqBuYCeOmUomyzld/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
